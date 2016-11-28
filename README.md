@@ -25,7 +25,10 @@ are part of most distributions):
 
  * cmake
  * sigc++
+   else use: apt-get install libsigc++-2.0-dev
+ 
  * gtkmm
+    else use: apt-get install libgtkmm-2.4-dev
 
 You can compile it by typing:
 
